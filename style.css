@@ -33,8 +33,10 @@ body {
     float:  left;
     width: 30%;
     margin: 10px;
+    margin-top: 30px;
     border-radius: 20px;
     background-color: #f8fff4;
+    height: 635px ;
 }
 
 .center {
@@ -42,8 +44,10 @@ body {
     width: 60%;
     margin: 10px;
     padding-left: 30px;
+    margin-top: 30px;
     background-color: #f8fff4;
     border-radius: 20px;
+    height: 635px;
 }
 
 li {
