@@ -1,0 +1,22 @@
+div {
+    margin: 5px;
+    padding: 5px;
+}
+
+#nomprénom {
+    font-size: 40px;
+    font-family: 'Special Elite', cursive;
+    text-decoration-line: none;
+}
+
+span {
+    font-size: large;
+    font-family: 'Syne Mono', monospace;
+    text-decoration-line: underline overline;
+}
+
+h1 {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+}
