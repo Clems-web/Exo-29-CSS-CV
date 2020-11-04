@@ -17,6 +17,15 @@ span {
 
 h1 {
     text-align: center;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 15px;
 }
+
+body {
+    background: linear-gradient(-45deg, #008080, #00cccc, #23a6d5, #e6ffff);
+}
+
+li {
+    width: 50%;
+}
+
