@@ -22,6 +22,9 @@ h1 {
     border-radius: 15px;
     margin-left: 30%;
     margin-right: 30%;
+    padding: 5px;
+    text-shadow: 4px 2px 7px rgba(0,0,0,0.6);
+    font-family: 'Syne Mono', monospace;
 }
 
 body {
@@ -57,3 +60,4 @@ li {
 img {
     border-radius: 20px;
 }
+
