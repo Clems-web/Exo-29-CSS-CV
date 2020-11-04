@@ -13,19 +13,43 @@ span {
     font-size: large;
     font-family: 'Syne Mono', monospace;
     text-decoration-line: underline overline;
+    text-shadow: 4px 2px 7px rgba(0,0,0,0.6);
 }
 
 h1 {
     text-align: center;
     border: 2px solid black;
     border-radius: 15px;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 body {
+    size: A4;
     background: linear-gradient(-45deg, #008080, #00cccc, #23a6d5, #e6ffff);
 }
 
-li {
-    width: 50%;
+.border-left {
+    float:  left;
+    width: 30%;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: #f8fff4;
 }
 
+.center {
+    float: right;
+    width: 60%;
+    margin: 10px;
+    padding-left: 30px;
+    background-color: #f8fff4;
+    border-radius: 20px;
+}
+
+li {
+    text-align: justify-all;
+}
+
+img {
+    border-radius: 20px;
+}
